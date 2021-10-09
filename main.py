@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 
 df = pd.read_csv(
-    r"C:\# Germany\# My Computer 2 (DueBackup)\# Study\# Machine Learning (except DL)\Python Engineer\Project\A Machine Learning Web App From Scratch\Data\survey_results_public.csv"
+    r"DATASET_LOCATION"
 )
 
 # Keep only these features below - "converteComp" will be the outcome
