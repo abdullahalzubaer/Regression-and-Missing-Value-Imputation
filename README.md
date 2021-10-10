@@ -15,6 +15,17 @@ https://insights.stackoverflow.com/survey
 
 ---
 
+## TODO
+* [ ] Provide proper documentaiton
+* [ ] Dataset characteristics
+* [ ] Try different imputation methods (for example, mean, median 
+* [ ] Try other Regression algorithms
+* [ ] Provide the results of using different impuation methods and no impuation (Comparison)
+* [ ] Select the features based on feature imporatnce (now it is selected intuitively)
+* [ ] Dive deep into if it makes sense to encode the values of some features
+
+---
+
 Reference: 
 
 https://www.youtube.com/watch?v=xl0N7tHiwlw
